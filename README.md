@@ -1,5 +1,5 @@
 # Demo Spring Boot / JPA / H2DB / Rest API
-Project demo chạy ứng dụng IntelliJ và hướng dẫn chạy từ A-Z
+Project demo Spring Boot / JPA / H2DB / Rest API chạy bằng IDE IntelliJ và hướng dẫn chạy từ A-Z
 
 ## Setup
 - Download & giải nén demo project: https://github.com/tyrion9/demo-springboot/archive/master.zip
